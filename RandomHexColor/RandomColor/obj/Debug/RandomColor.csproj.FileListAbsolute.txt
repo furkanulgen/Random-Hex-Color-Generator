@@ -1,0 +1,14 @@
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.csproj.AssemblyReference.cache
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.Form1.resources
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.Properties.Resources.resources
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.csproj.GenerateResource.cache
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.csproj.CoreCompileInputs.cache
+C:\Users\90555\source\repos\RandomColor\RandomColor\bin\Debug\RandomColor.exe.config
+C:\Users\90555\source\repos\RandomColor\RandomColor\bin\Debug\RandomColor.exe
+C:\Users\90555\source\repos\RandomColor\RandomColor\bin\Debug\RandomColor.pdb
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.exe
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.pdb
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\Interop.WMPLib.dll
+C:\Users\90555\source\repos\RandomColor\RandomColor\obj\Debug\RandomColor.csproj.ResolveComReference.cache
